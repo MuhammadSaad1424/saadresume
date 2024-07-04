@@ -49,9 +49,8 @@ body {
   transition: 0.6s;
 }
 
-.hero-btn:hover {
+.hero-btn:hover{
   background-color: #20c997;
-  border: none;
 }
 
 .navbar {
